@@ -1,2 +1,2 @@
-log_file.log
-git.txt
+*.log
+temp/
